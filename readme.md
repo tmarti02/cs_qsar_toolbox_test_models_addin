@@ -15,10 +15,18 @@ This project builds a QSAR Toolbox add-in package (`.tbaddin`) for the TEST mode
 Before building or using the add-in, ensure you have:
 
 - **QSAR Toolbox installed**
-- **.NET v10.0 SDK** installed
+- **.NET SDK** installed (v10.0 is needed for QSAR Toolbox)
 - The following local runtime files in the project root:
-  - `test_bin\WebTEST.jar`
-  - `test_bin\jdk-26.0.2.1\`
+  - `test_bin\WebTEST.jar` (TEST code)
+  - `test_bin\jdk-26.0.2.1\` (Java JDK)
+
+You can download `WebTEST.jar` here:
+
+[WebTEST.jar](https://github.com/USEPA/test-app/releases/download/v5.1.3/WebTEST.jar)
+
+You can download a compatible JDK here:
+
+[JDK 26 download](https://adoptium.net/temurin/releases/?version=26)
 
 ### Build the add-in package
 
