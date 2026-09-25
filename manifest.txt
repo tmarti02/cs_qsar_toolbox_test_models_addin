@@ -1,0 +1,9 @@
+AddinAssemblyName=TestAddins.dll
+Guid=7f7c7db0-8d0f-4bc7-9f3f-4c8e7c3e2f2d
+ShortName=TestAddins
+LongName=TEST Toolbox models
+Version=1.0
+Description=OECD Toolbox addin for TEST models.
+Changelog=Initial packaged release.
+PluginDependencies=
+URL=

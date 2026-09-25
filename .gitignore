@@ -1,0 +1,17 @@
+﻿DeploymentAdditional/bin
+DeploymentAdditional/obj
+ModelsFileRegenerator/bin
+ModelsFileRegenerator/obj
+tb-test-addin-master/FactorySmokeTest/bin
+tb-test-addin-master/obj
+tb-test-addin-master/FactorySmokeTest/obj
+tb-test-addin-master/Resources/testmodels - Copy.txt
+tb-test-addin-master/Resources/testmodels.xlsx
+test_bin/jdk-26.0.2.1
+test_bin
+PackageBuild
+PackageStaging
+tbaddin_creator/bin
+tbaddin_creator/obj
+Toolbox.Addin.TestAddins.tbaddin
+*.zip
